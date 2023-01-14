@@ -1,0 +1,11 @@
+C:\Nuig\Business Application\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Nuig\Business Application\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Nuig\Business Application\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Nuig\Business Application\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Nuig\Business Application\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+C:\Nuig\Business Application\Assignment3\Assignment3\obj\Debug\Assignment3.MainForm.resources
+C:\Nuig\Business Application\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Nuig\Business Application\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+C:\Nuig\Business Application\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Nuig\Business Application\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Nuig\Business Application\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
